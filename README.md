@@ -1,6 +1,16 @@
-- 👋  Olá, Me chamo Eduarda Nicola.
+**Olá!!**
+__________________________________________________________
+
+Me chamo Eduarda Nicola.
+
 - Estou participando do Grupo de Estudo de Formadores em Ação.
 - Meu e-mail é eduarda.nicola@escola.pr.gov.br
+
+__________________________________________________________
+
+**Contatos**
+
+([@dudah_nicola]())
 
 <!---
 eduardanic/eduardanic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
